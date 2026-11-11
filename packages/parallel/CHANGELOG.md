@@ -1,5 +1,12 @@
 # @ai-sdk/parallel
 
+## 3.0.8
+
+### Patch Changes
+
+- Updated dependencies [2ebc78b]
+  - @ai-sdk/provider-utils@5.0.80
+
 ## 3.0.7
 
 ### Patch Changes
